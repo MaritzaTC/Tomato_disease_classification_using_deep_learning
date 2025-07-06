@@ -96,7 +96,7 @@ El proyecto incluye materiales complementarios que detallan el contexto, los obj
   👉 [Ver documento](ENTREGA1.pdf)
 
 - 📊 **Informe ejecutivo**: Donde se describen los procesos, arquitectura, iteraciones y análisis de resultados brevemente.  
-  👉 [Ver informe ejecutivo](INFORME_PROYECTO.pdf)
+  👉 [Ver informe ejecutivo](INFORME_PROYECTO.PDF)
 
 - 🎥 **Video demostrativo**: Presentación en video del proyecto.   
   👉 [Ver en YouTube](https://www.youtube.com/watch?v=qrI-pqzGsrM)
